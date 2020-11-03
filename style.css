@@ -2,6 +2,9 @@ body {
 	font-family: arial;
 	margin: 0px;
 }
+h4 {
+	margin: 1em 0 0.5em;
+}
 nav {
 	display: flex;
 	height: 70px;
