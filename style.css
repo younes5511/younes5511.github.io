@@ -93,3 +93,8 @@ footer ul {
 	display: inline-block; 
 	width: 390px;
 }
+@media (max-width: 600px) {
+	.secondary-block {
+	  display: none;
+	}
+  }
