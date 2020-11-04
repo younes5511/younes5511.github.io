@@ -98,8 +98,6 @@ footer ul {
 	  display: none;
 	}
   }
-  @media (max-width: 600px) {
-	#links {
-	  text-align:justify ;
-	}
-  }
+a :hover{
+	color: blue;
+}
