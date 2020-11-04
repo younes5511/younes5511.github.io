@@ -94,7 +94,7 @@ footer ul {
 	width: 390px;
 }
 @media (max-width: 600px) {
-	.secondary-block h2 {
+	.secondary-block  {
 	  display: none;
 	}
   }
