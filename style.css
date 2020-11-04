@@ -94,7 +94,7 @@ footer ul {
 	width: 390px;
 }
 @media (max-width: 600px) {
-	nav .secondary-block a {
+	a {
 	  display: none;
 	}
   }
